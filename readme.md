@@ -3,9 +3,12 @@ Quickstart for projects built with riot and gulp
 
 ## Install
 ```
-git clone https://github.com/dskrenta/riot-quickstart
-cd riot-quickstart && npm install
+git clone https://github.com/dskrenta/parallax-mobile
+cd parallax-mobile && npm install
 ```
+
+## Build
+`npm run build`
 
 ## Run
 `npm start`
